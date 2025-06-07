@@ -33,7 +33,14 @@
 
 ## 🖼️ Preview
 
-<img src='' alt='' />
+<p float="left">
+  <img src="./screenshots/t1.png" width="45%" />
+  <img src="./screenshots/t2.png" width="45%" />
+  <img src="./screenshots/t3.png" width="45%" />
+  <img src="./screenshots/t4.png" width="45%" />
+  <img src="./screenshots/t5.png" width="45%" />
+  <img src="./screenshots/t6.png" width="45%" />
+</p>
 
 ---
 
