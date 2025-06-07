@@ -33,7 +33,7 @@
 
 ## 🖼️ Preview
 
-> _You can add a few screenshots or a short GIF of the UI here!_
+<img src='' alt='' />
 
 ---
 
@@ -57,8 +57,20 @@ cd trust-tap
 npm install
 
 # 4. Set up Firebase config 
+Navigate to src>firbase>config and update the firebaseConfig
 
+const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
+};
 ...
 
 # 5. Run the app
 npm run dev
+```
+⭐ If you find this useful, please star the repo and share it!
+<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="thanks gif" /> </p> ```
