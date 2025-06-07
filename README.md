@@ -25,9 +25,9 @@
 
 ## 🔧 Tech Stack
 
-| Frontend | Backend     | Animations |
-|----------|-------------|------------|
-| React + TypeScript | Firebase Auth, Firestore | Anime.js |
+| Frontend           | Backend                  | Animations |
+| ------------------ | ------------------------ | ---------- |
+| React + TypeScript | Firebase Auth, Firestore | Anime.js   |
 
 ---
 
@@ -40,7 +40,7 @@
 ## 🚀 Live Demo
 
 🔗 [Launch App](https://your-live-demo-link.vercel.app/)  
-*(hosted on Vercel or Netlify)*
+_(hosted on Vercel or Netlify)_
 
 ---
 
@@ -56,7 +56,7 @@ cd trust-tap
 # 3. Install dependencies
 npm install
 
-# 4. Set up Firebase config 
+# 4. Set up Firebase config
 Navigate to src>firbase>config and update the firebaseConfig
 
 const firebaseConfig = {
@@ -72,5 +72,7 @@ const firebaseConfig = {
 # 5. Run the app
 npm run dev
 ```
+
 ⭐ If you find this useful, please star the repo and share it!
+
 <p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="thanks gif" /> </p> ```
