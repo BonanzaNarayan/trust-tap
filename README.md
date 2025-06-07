@@ -44,12 +44,12 @@
 
 ---
 
-## 🚀 Live Demo
+<!-- ## 🚀 Live Demo
 
-🔗 [Launch App](https://your-live-demo-link.vercel.app/)  
-_(hosted on Vercel or Netlify)_
+🔗 [Launch App](https://your-live-demo-link.vercel.app/)
+_(hosted on Vercel or Netlify)_ -->
 
----
+<!-- --- -->
 
 ## 🛠️ Getting Started
 
